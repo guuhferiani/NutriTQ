@@ -1,5 +1,5 @@
 {
-  "name": "temp_app",
+  "name": "nutritq",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@neondatabase/serverless": "^1.1.0",
     "better-auth": "^1.6.27",
     "lucide-react": "^1.31.0",
